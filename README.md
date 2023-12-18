@@ -16,3 +16,8 @@ Developed by Katie Vandeloo, University of Toronto, Sunnybrook Research Institut
 # Dependencies 
 # Installation
 # Tutorial
+Open terminal and navigate to your working directory on dimag server:
+```
+ssh <yourusername>@dimag.sri.utoronto.ca
+```
+## 1. Conversion of file format to BIDS
